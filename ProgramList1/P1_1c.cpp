@@ -8,7 +8,6 @@ int main(){
     int l,b,p,a;
     cout<<"Enter the length: ";
     cin>>l;
-    cout<<endl;
     cout<<"Enter the breadth: ";
     cin>>b;
     cout<<"Perimeter = "<<2*(l+b)<<endl;
