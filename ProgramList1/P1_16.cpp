@@ -25,4 +25,4 @@ int main() {
     checkArm(num);
     system("pause");
     return 0;
-    }
+}
